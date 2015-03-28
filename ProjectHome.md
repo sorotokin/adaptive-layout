@@ -1,0 +1,1 @@
+Browser-based implementation of EPUB Adaptive Layout: http://www.idpf.org/epub/pgt/
