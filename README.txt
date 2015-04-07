@@ -91,3 +91,5 @@ Viewer project.
 
 To build Windows app, open build/win/viewer/viewer.sln in VisualStudio and
 build it.
+
+adapt_cc folder contains very incomplete C++ port of the layout code.
